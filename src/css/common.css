@@ -28,9 +28,7 @@ img {
   flex-direction: column;
   text-align: center;
   border: 0;
-  border-radius: 15px;
-  background: #34cd37;
-  color: #fff;
+  color: black;
   padding: 8px 5px;
   font-size: 16px;
 }
@@ -38,9 +36,7 @@ img {
 #datetime-picker {
   appearance: none;
   border: 0;
-  border-radius: 15px;
-  background: #344a79;
-  color: #fff;
+  color: black;
   padding: 8px 16px;
   font-size: 16px;
 }
